@@ -1,0 +1,29 @@
+[
+{
+"nome":"Tênis Runner Pro",
+"preco":"179.90",
+"categoria":"tenis",
+"imagem":"https://via.placeholder.com/400"
+},
+
+{
+"nome":"Tênis Casual Fit",
+"preco":"149.90",
+"categoria":"tenis",
+"imagem":"https://via.placeholder.com/400"
+},
+
+{
+"nome":"Camiseta Dry Fit",
+"preco":"79.90",
+"categoria":"roupa",
+"imagem":"https://via.placeholder.com/400"
+},
+
+{
+"nome":"Short Esportivo",
+"preco":"89.90",
+"categoria":"promo",
+"imagem":"https://via.placeholder.com/400"
+}
+]
